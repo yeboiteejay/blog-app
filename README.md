@@ -18,8 +18,7 @@ npm install
 ```
 
 2. Create a `.env` file:
-```VITE_SUPABASE_URL=https://rjkoetpvanyeufbfspxx.supabase.co
-VITE_SUPABASE_ANON_KEY=sb_publishable_uEKdTNXTlIAV4gdY-wnQhw_CiHSoiSn
+"your supabase anon key"
 ```
 
 3. Set up the database:
@@ -44,3 +43,4 @@ npm run build
 - Redux Toolkit
 - React Router
 - Supabase
+
